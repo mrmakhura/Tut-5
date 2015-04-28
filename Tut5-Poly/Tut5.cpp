@@ -17,6 +17,7 @@ void GetShape(Shape * a)
 	cin >> choice;*/
 	float p, ar;
 
+
 		(*a).name();
 		p = (*a).perimeter();
 		ar = (*a).area();
