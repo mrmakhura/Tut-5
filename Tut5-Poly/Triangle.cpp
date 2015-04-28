@@ -10,6 +10,7 @@ Triangle::Triangle()
 {
 	height = 10;
 	base = 25;
+
 }
 
 void Triangle::name() const
