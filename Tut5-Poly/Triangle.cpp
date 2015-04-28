@@ -9,6 +9,7 @@ using namespace std;
 Triangle::Triangle()
 {
 	height = 10;
+
 	base = 25;
 
 }
